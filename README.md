@@ -95,17 +95,35 @@ figures until the dataset is fully validated.
 
 ## Dashboard
 
-<img width="665" height="387" alt="Screenshot 2026-08-30 162322" src="https://github.com/user-attachments/assets/db91a49c-fafa-4f75-a7e1-0074074be55d" />
-
-
 The dashboard covers:
 
-- Executive Overview
-- Workforce Composition
-- Talent Acquisition
-- Development & Performance
-- Attrition Analysis
-- Branch Comparison
+## Executive Overview
+  
+<img width="665" height="387" alt="Screenshot 2026-08-30 162322" src="https://github.com/user-attachments/assets/3a3b198a-6749-49f4-ac81-2c5a7633212c" />
+
+
+## Workforce Composition
+  
+  <img width="661" height="383" alt="Screenshot 2026-08-30 162342" src="https://github.com/user-attachments/assets/0ad26eaa-e070-4322-845e-c55b5e667971" />
+
+## Talent Acquisition
+  
+  <img width="661" height="379" alt="Screenshot 2026-08-30 162357" src="https://github.com/user-attachments/assets/518c7442-3f3b-4e20-ae4b-6fbc0fe329c0" />
+
+## Development & Performance
+  
+  <img width="665" height="385" alt="Screenshot 2026-08-30 162420" src="https://github.com/user-attachments/assets/e8377e8e-e90b-4cce-bfa0-06db86f2f1a0" />
+
+## Attrition Analysis
+  
+  <img width="664" height="386" alt="Screenshot 2026-08-30 162438" src="https://github.com/user-attachments/assets/2069c847-ec57-485f-8bd1-e3197d0fb98b" />
+
+
+## Branch Comparison
+<img width="661" height="380" alt="Screenshot 2026-08-30 162454" src="https://github.com/user-attachments/assets/7c698204-1541-47ed-a6f8-c8f8e01ef36b" />
+
+## Employees Demographics
+  <img width="665" height="383" alt="Screenshot 2026-08-30 162510" src="https://github.com/user-attachments/assets/ab5a4332-7d48-4e81-a9c4-f90bc0cde651" />
 
 ---
 
